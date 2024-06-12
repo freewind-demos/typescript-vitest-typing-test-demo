@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Vitest Typing Test Demo
 ===========================
+
+没想到vitest内置对类型的验证，太棒了
 
 ```
 npm install
 npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-

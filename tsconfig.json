@@ -5,8 +5,5 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
-  },
-  "files": [
-    "hello.ts"
-  ]
+  }
 }
